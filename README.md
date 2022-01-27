@@ -15,4 +15,3 @@ Drawback for this method:
 * Using this method, we cannot predict whether a token is toxic or not based on the context which will lower the accecury
 
 Score for this method is *58%*
-
