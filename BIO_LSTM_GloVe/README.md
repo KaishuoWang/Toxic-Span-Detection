@@ -2,5 +2,5 @@
 
 | evaluation method | f1 | evaluation result |
 | -- | -- | -- |
-| span | 0.64 | 0.6426 |
-| tag | 0.90 | 0.897 |
+| span | 0.64 | 0.6432 |
+| tag | 0.89 | 0.8930 |
