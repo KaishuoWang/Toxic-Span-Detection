@@ -7,10 +7,10 @@ tag score
 f1 - 0.74
 0.7382
 
-添加CRF之后5个epochs
+添加CRF之后15个epochs
 span score
-f1 - 0.56
-0.56
+f1 - 0.60
+0.6032
 
 tag score
 f1 - 0.85
