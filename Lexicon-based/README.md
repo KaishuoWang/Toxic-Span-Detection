@@ -1,10 +1,11 @@
 # Lexicon based approach
 
+We are using Orthrus Lexicon Dictionary, we haved listed it in the reference
+
+## Evaluation
 | f1 | evaluation result |
 | -- | -- |
 | 0.62 | 0.6170 |
-
-We are using Orthrus Lexicon Dictionary, we haved listed it in the reference
 
 ## Reference
 Marco Palomino, Dawid Grad, and James Bedwell. 2021. An ensemble approach to identify toxicity in text. In SemEval.
