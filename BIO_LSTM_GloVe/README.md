@@ -1,4 +1,8 @@
-## Use CRF as output for 15 epochs
+# BIO-LSTM-GloVe
+
+In this method we used Glove as word embadding to tokenize the words
+
+## Evaluation
 
 | evaluation method | f1 | evaluation result |
 | -- | -- | -- |
