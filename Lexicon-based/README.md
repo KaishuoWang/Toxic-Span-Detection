@@ -3,7 +3,7 @@
 We are using Orthrus Lexicon Dictionary, we haved listed it in the reference
 
 ## Evaluation
-| f1 | evaluation result |
+| f1 | evaluation score |
 | -- | -- |
 | 0.62 | 0.6170 |
 

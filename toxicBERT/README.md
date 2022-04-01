@@ -10,4 +10,7 @@ Steps for this step:
 Drawback for this method:
 * Using this method, we cannot predict whether a token is toxic or not based on the context which will lower the accecury
 
-Score for this method is *63.89%*
+## Evaluation
+| f1 | evaluation score |
+| -- | -- |
+| 0.64 | 0.6389 |
