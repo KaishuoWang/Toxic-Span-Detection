@@ -6,5 +6,5 @@ In this method we used Glove as word embadding to tokenize the words
 
 | evaluation based on | f1 | evaluation score |
 | -- | -- | -- |
-| span | 0.64 | 0.6432 |
+| span | 0.64 | 0.66 |
 | tag | 0.89 | 0.8930 |
