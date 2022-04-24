@@ -1,4 +1,4 @@
-# BIO-LSTM
+# BIO-LSTM-word2idx
 
 ## Evaluation
 
